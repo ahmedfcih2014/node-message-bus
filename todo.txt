@@ -1,0 +1,3 @@
+we need to implement the next
+
+1- best way to queue events if nodes not connected
